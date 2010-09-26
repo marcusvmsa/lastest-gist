@@ -1,1 +1,1 @@
-hpricot --version '>= 0.2' --source code.whytheluckystiff.net
+hpricot --version '>= 0.2' --http://github.com/hpricot/hpricot.git
