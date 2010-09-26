@@ -1,1 +1,1 @@
-hpricot --version '>= 8.0.2' --source code.whytheluckystiff.net
+hpricot --version '>= 8.0.2' --source http://github.com/hpricot/hpricot.git
