@@ -1,1 +1,3 @@
-hpricot --version '>= 0.2' --http://github.com/hpricot/hpricot.git
+hpricot
+erb
+open-uri
