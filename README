@@ -1,0 +1,5 @@
+An example of Sinatra to prove how easy it can be programmed. This code fetches the last registered Gist on GitHub and displays it, simple as that.
+
+This project uses Hpricot for "scrape" data from GitHub and display them.
+
+I'll be very happy if anyone learn something with this code. =D
