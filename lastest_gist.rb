@@ -6,7 +6,7 @@ require 'open-uri'
 
 get '/' do
   
-  doc = Hpricot(open("http://gist.github.com/gists"))
+  doc = Hpricot(open("https://gist.github.com/gists"))
 
   erb :index, :locals => { :first_gist => doc.at(".file") }
 
